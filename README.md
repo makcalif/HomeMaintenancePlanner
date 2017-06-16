@@ -36,6 +36,7 @@ Expect/Chai tests:
 
 ## Skipped
 1. Implement the build command should create `dist/*` assets
+2. Configuration to change port to run on ports other than 3000
  
 ## How to Run
 1. Install the project using 'yarn install'
